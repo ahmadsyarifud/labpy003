@@ -30,6 +30,7 @@ Program ini menghasilkan sejumlah N angka acak yang nilainya selalu kurang dari 
 ## Penjelasan Kode
 
 ### 1. Import Library Random
+
 ```python
 from random import random
 ````
@@ -37,6 +38,7 @@ from random import random
 Kode ini mengimpor fungsi random() dari library random bawaan Python. Fungsi random() menghasilkan angka acak dalam rentang 0 hingga 1.
 
 ### 2. Input Nilai N
+
 ```python
 n = int(input("Masukkan nilai N: "))
 ````
@@ -44,6 +46,7 @@ n = int(input("Masukkan nilai N: "))
 Program meminta pengguna memasukkan nilai integer N, yang menunjukkan berapa kali loop akan dijalankan. Nilai ini menentukan jumlah angka acak yang ingin dihasilkan.
 
 ### 3. Looping dan Generasi Angka Acak
+
 ```python
 for i in range(1, n + 1):
 ````
@@ -51,6 +54,7 @@ for i in range(1, n + 1):
 Loop for ini berjalan dari 1 hingga N (inklusif). Pada setiap iterasi, variabel i akan menyimpan indeks iterasi saat ini.
 
 ### 4. Membuat Angka Acak
+
 ```python
 angka_acak = random()
 ````
@@ -58,6 +62,7 @@ angka_acak = random()
 Pada setiap iterasi, sebuah angka acak dihasilkan menggunakan fungsi random() dan disimpan dalam variabel angka_acak.
 
 ### 5. Kondisi Pemilihan
+
 ```python
 Salin kode
 if angka_acak < 0.5:
@@ -72,6 +77,7 @@ Jika angka_acak kurang dari `0.5`, maka angka langsung dicetak dengan `format da
 Jika angka_acak lebih besar atau sama dengan `0.5`, program akan masuk ke dalam loop while untuk terus menghasilkan angka acak baru hingga mendapatkan angka yang kurang dari `0.5`, lalu mencetak angka tersebut.
 
 ### 6. Akhir Program
+
 ```python
 print("Selesai")
 ````
