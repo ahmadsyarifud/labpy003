@@ -95,20 +95,19 @@ data ke: 3 => 0.12486530658774031
 data ke: 4 => 0.4755389441515395
 data ke: 5 => 0.4919317309126129
 Selesai
-```
+````
 
 
 ## Berikut adalah hasin screenshot vsc
 
 ![Cuplikan layar 2024-11-01 185223](https://github.com/user-attachments/assets/d94a453d-ab66-4a88-9f09-af9c9ed30417)
 
-
 ## Penjelasan Kode
 Import Modul Random: from random import random untuk mengimpor fungsi random() yang akan digunakan untuk menghasilkan angka acak.
 Input Pengguna: `n = int(input("Masukkan nilai N: "))` meminta pengguna memasukkan jumlah angka yang akan dihasilkan.
 Loop for: Menghasilkan angka acak sebanyak N kali.
 Loop while: Memastikan setiap angka yang dihasilkan `kurang dari 0.5. Jika angka lebih besar atau sama dengan 0.5`, angka akan diacak kembali.
-Output: Setiap angka acak ditampilkan dengan `format data ke: {nomor} => {angka}`.
+Output: Setiap angka acak ditampilkan dengan `format data ke: {nomor} => {angka}.
 
 # LATIHAN 2.latihan2.py
 # Menghitung Laba Usaha selama 8 Bulan
