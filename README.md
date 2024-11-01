@@ -86,8 +86,7 @@ Setelah semua angka yang diinginkan berhasil dihasilkan dan ditampilkan, program
 
 ## Contoh Output
 Jika pengguna memasukkan nilai `N = 5`, maka output yang dihasilkan mungkin terlihat seperti ini:
-
-python
+```python
 Masukkan nilai N: 5
 data ke: 1 => 0.3729648189127943
 data ke: 2 => 0.12069084128885188
@@ -95,7 +94,7 @@ data ke: 3 => 0.12486530658774031
 data ke: 4 => 0.4755389441515395
 data ke: 5 => 0.4919317309126129
 Selesai
-
+````
 
 
 ## Berikut adalah hasin screenshot vsc
