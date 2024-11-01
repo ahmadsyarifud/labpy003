@@ -100,7 +100,7 @@ Selesai
 
 ## Berikut adalah hasin screenshot vsc
 
-![Cuplikan layar 2024-11-01 185223](https://github.com/user-attachments/assets/4b246997-884f-4644-a09f-2cf5aa9fd87d)
+![Cuplikan layar 2024-11-01 185223](https://github.com/user-attachments/assets/d94a453d-ab66-4a88-9f09-af9c9ed30417)
 
 
 ## Penjelasan Kode
