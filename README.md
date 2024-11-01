@@ -100,7 +100,8 @@ Selesai
 
 ## Berikut adalah hasin screenshot vsc
 
-![Cuplikan layar 2024-11-01 185223](https://github.com/user-attachments/assets/d94a453d-ab66-4a88-9f09-af9c9ed30417)
+![Cuplikan layar 2024-11-01 185223](https://github.com/user-attachments/assets/69d52cc8-0deb-44b0-acbc-040e39a3b970)
+
 
 ## Penjelasan Kode
 Import Modul Random: from random import random untuk mengimpor fungsi random() yang akan digunakan untuk menghasilkan angka acak.
